@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class login {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		 String correctUsername = "user";
 	     String correctPassword = "password";
 	     Scanner scanner = new Scanner(System.in);
